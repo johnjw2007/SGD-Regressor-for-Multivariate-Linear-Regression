@@ -52,8 +52,7 @@ RegisterNumber:  24013517
 print(y_pred)
 ```
 ## Output:
-![multivariate linear regression model for predicting the price of the house and number of occupants in the house](sam.png)
-![Screenshot 2024-11-10 133629](https://github.com/user-attachments/assets/a8968f77-bb3e-4ea2-aacf-34b4c8f6daee)
+![image](https://github.com/user-attachments/assets/cc8d8917-64ab-49b1-a361-3ee0546d748b)
 
 
 ## Result:
