@@ -8,10 +8,14 @@ To write a program to predict the price of the house and number of occupants in 
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1. Start
+2. Data Preparation
+3. Hypothesis Definition
+4. Cost Function
+5. Parameter Update Rule
+6. Iterative Training
+7. Model Evaluation
+8. End
 
 ## Program:
 ```
@@ -20,6 +24,7 @@ Program to implement the multivariate linear regression model for predicting the
 Developed by: John Wilfred Thomas J W
 RegisterNumber:  24013517
 */
+```
 ```
  import numpy as np
  from sklearn.datasets import fetch_california_housing
@@ -45,7 +50,7 @@ RegisterNumber:  24013517
  y_pred = scaler_y.inverse_transform(y_pred)
  y_test = scaler_y.inverse_transform(y_test)
 print(y_pred)
-
+```
 ## Output:
 ![multivariate linear regression model for predicting the price of the house and number of occupants in the house](sam.png)
 ![Screenshot 2024-11-10 133629](https://github.com/user-attachments/assets/a8968f77-bb3e-4ea2-aacf-34b4c8f6daee)
